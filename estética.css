@@ -1,0 +1,39 @@
+body
+{
+    background-color: black;
+}
+
+
+.titulo
+{
+    color:whitesmoke;
+    text-align: center;
+    line-height: 50px;
+    background-color: rgb(6, 6, 194);
+    background-size: 120% 120px;
+    background-repeat: no-repeat;
+
+}
+
+.frase
+{
+    color:whitesmoke;
+    text-align: justify;
+
+
+}
+
+.hobby-1
+{
+    color:whitesmoke;
+    line-height: 200px;
+    text-align: center;
+
+
+}
+
+ .imagem
+{
+    width: 31%;
+
+} 
