@@ -1,0 +1,76 @@
+body
+{
+    background-color: black;
+}
+
+
+.titulo
+{
+    text-align: center;
+    font-size: 40px;
+    position: fixed;
+    color: white;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 90px;
+    background-color: rgb(138, 5, 5);
+    background-size: 100% 100px;        
+    background-repeat: no-repeat;
+
+}
+
+.sub-titulo
+{
+    color:whitesmoke;
+    text-align: justify;
+    font-size: 40px;
+}
+
+.frase
+{
+    color:whitesmoke;
+    text-align: justify;
+    font-size: 20px;
+
+
+}
+
+.hobby-1
+{
+    color:whitesmoke;
+    line-height: 200px;
+    text-align: center;
+
+
+}
+
+ .imagem
+{
+    width: 31%;
+
+} 
+
+.botao-sobreposto {
+    position: absolute;
+    top: 92%;
+    left: 93%;
+    transform: translate(-50%, -50%);
+    background-color: rgb(255, 13, 13);
+    color: rgb(255, 255, 255);
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: box-shadow 0.3s ease; /* Adiciona transição suave ao efeito de brilho */
+}
+
+.botao-sobreposto:hover {
+    box-shadow: 0 0 40px rgb(255, 3, 3); /* Cria um efeito de brilho ao passar o cursor sobre o botão */
+}
+
+
+p{
+    color:aliceblue
+}
