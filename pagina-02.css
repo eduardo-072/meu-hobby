@@ -20,12 +20,16 @@ body
 {
     text-align: center;
     font-size: 40px;
-    color: whitesmoke
+    color: whitesmoke;
+    font-family: "Josefin Sans", sans-serif;
+
 }
 
 .container {
     position: relative;
     display: inline-block;
+    font-family: "Josefin Sans", sans-serif;
+
 }
 
 .texto-sobreposto {
@@ -37,6 +41,8 @@ body
     padding: 10px;
     border-radius: 5px;
     color: black;
+    font-family: "Josefin Sans", sans-serif;
+
 }
  
 .botao-avançar
@@ -104,6 +110,8 @@ p{
   .descricao {
     text-align: center;
     color: #0056b3;
+    font-family: "Josefin Sans", sans-serif;
+
 
   }
   

@@ -32,6 +32,8 @@ body{
 {
     text-align: center;
     font-size: 40px;
+    font-family: "Josefin Sans", sans-serif;
+
 }
 .botao-avançar
 {
@@ -94,13 +96,17 @@ body{
   
   .descricao {
     text-align: center;
-    color: #0056b3;
+    color: #ffffff;
+    font-family: "Josefin Sans", sans-serif;
+
 
   }
   
   .descricao-imagem
   {
-    color: rgb(0, 0, 0)
+    color: rgb(255, 255, 255);
+    font-family: "Josefin Sans", sans-serif;
+
   }
   .descricao h3 {
     margin-top: 0;
